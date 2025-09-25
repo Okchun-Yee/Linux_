@@ -1,0 +1,4 @@
+# Only .c file
+*.h
+*.i
+*.o
