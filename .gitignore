@@ -1,4 +1,5 @@
 # Only .c file
-*.h
+*.out
 *.i
 *.o
+*.s
